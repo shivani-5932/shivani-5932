@@ -1,42 +1,63 @@
 # 👋 Hi, I'm Shivani Emanuel
 
-🎯 *Aspiring Software Developer* | 🌐 Web Dev & AI Enthusiast | 🛠️ Building Skills for GSoC 2026
+💻 Flutter Developer | 🚀 Software Development Enthusiast | 🤖 AI & Web Technologies Learner
+
+Welcome to my GitHub! I'm a passionate software developer focused on building real-world applications with Flutter while continuously improving my skills in web development, AI, data structures, and software engineering.
+
+Currently, I'm working on projects that strengthen my development skills, expand my technical knowledge, and help me build a strong software development portfolio.
 
 ---
 
-Welcome to my GitHub! I’m a motivated learner currently focused on building strong foundations in software development, web technologies, and open source contribution. My long-term goal is to intern at Google (GSoC 2026) and create impactful real-world projects.
+## 🚀 Current Projects
 
----
-
-## 🚀 What I'm Working On
-- 🔨 Building my *personal portfolio website* (HTML, CSS, JS)
-- ✅ Practicing with small projects like *To-Do App, **Weather App*, and simple games
-- 📚 Documenting my weekly learning in a public GitHub *Learning Journal*
-- 🌱 Preparing to contribute to *open-source repositories*
+* 🐾 Building **CarePaws**, a pet healthcare and wellness application using Flutter
+* 🌐 Expanding my knowledge of modern web development
+* 🤖 Exploring Artificial Intelligence and Machine Learning fundamentals
+* 📚 Strengthening Data Structures & Algorithms
+* 🔧 Building a strong portfolio through real-world projects
 
 ---
 
 ## 🧠 Currently Learning
-- JavaScript DOM manipulation
-- Git & GitHub for version control
-- React (next step!)
-- Data Structures & Algorithms
+
+* Advanced Flutter Development
+* JavaScript & React
+* APIs and Backend Integration
+* Data Structures & Algorithms
+* Git & GitHub
+* AI & Machine Learning Fundamentals
 
 ---
 
-## 📌 Goals for 2025
-- ✅ Build at least *10 meaningful projects*
-- ✅ Create a polished *GitHub portfolio*
-- ✅ Start contributing to *open-source by December*
-- ✅ Apply confidently to *Google Summer Internship 2026*
+## 🎯 Goals
+
+* Build impactful software products
+* Contribute to open-source projects
+* Gain software development internship experience
+* Become a well-rounded Software Developer
+* Continuously learn and improve through real-world projects
 
 ---
 
-## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/shivani-emanuel-063b8a377/)
-- 💻 [GitHub](https://github.com/shivani-5932/)
-- 📬 Email: shivaniemanuel15@gmail.com
+## 🛠️ Tech Stack
+
+* Flutter
+* Dart
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
 
 ---
 
-> "The best way to predict the future is to build it." — Alan Kay
+## 📫 Connect With Me
+
+💼 LinkedIn: [www.linkedin.com/in/shivani-emanuel-063b8a377](http://www.linkedin.com/in/shivani-emanuel-063b8a377)
+
+💻 GitHub: github.com/shivani-5932
+
+📧 Email: [shivaniemanuel15@gmail.com](mailto:shivaniemanuel15@gmail.com)
+
+---
+
+> "The best way to learn software development is by building real projects."
